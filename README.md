@@ -37,9 +37,6 @@ If you'd like to contribute to this project, please follow these steps:
 
 If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/your-username/Quality_Education/issues). Your feedback is highly appreciated!
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
 
 ---
 
